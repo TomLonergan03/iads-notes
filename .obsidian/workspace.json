@@ -4,43 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f154c73033da7fbc",
+        "id": "9ff4db31e5c2507d",
         "type": "tabs",
         "children": [
           {
-            "id": "ccaa571b475fa236",
+            "id": "12771c3d4dca7984",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 2/W2L1 - Asymptotic analysis - o and ω.md",
+                "file": "Week 4/W4N2 - Sets, hashmap, and hashing.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "ad545c91607abbf8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 2/W2L2 - O, Ω, and Θ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d762c058f5758f6a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Week 4/W4N2 - Sets, hashmap, and hashing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Week 4/W4N2 - Sets, hashmap, and hashing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Week 4/W4N2 - Sets, hashmap, and hashing.md"
+              }
             }
           }
         ]
@@ -164,11 +147,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d762c058f5758f6a",
+  "active": "12771c3d4dca7984",
   "lastOpenFiles": [
+    "README.md",
+    "Week 4/W4N1 - Classic datatypes.md",
+    "Week 4/W4N2 - Sets, hashmap, and hashing.md",
+    "Week 4",
+    "Week 3/W3N3 - Representation of data in memory.md",
+    "Week 3/W3N2 - Asymptotic analysis of sorting algorithms.md",
+    "backing/Images/w3n2mergeSort.png",
     "Week 2/W2N1 - Summary of asymptotic notation.md",
     "Week 2/W2L2 - O, Ω, and Θ.md",
     "Week 2/W2L1 - Asymptotic analysis - o and ω.md",
+    "Week 3/W3N1 - Asymptotic analysis.md",
+    "backing/Images/w3n2DifferingPerformance.png",
+    "Week 3",
     "Week 1/W1L2 - Inefficient vs efficient algorithms.md",
     "Week 1/W1L1 - What are algorithms and data structures?.md",
     "backing/templates/Untitled.md",
@@ -184,7 +177,6 @@
     "backing/Images",
     "\"2..md",
     "2..md",
-    "README.md",
     "2023-04-11.md",
     "Week 1"
   ]
