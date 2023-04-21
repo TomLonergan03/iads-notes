@@ -6,7 +6,7 @@ Given a large decimal integer n, compute $n \text{ mod } 9$
 
 ##### Method A
 Do full division and note the remainder.
-![[week1DivisionAlgorithm.png]]
+![[w1n2DivisionAlgorithm.png]]
 
 ##### Method B
 Add the digits of n to get a new number n'
@@ -69,7 +69,7 @@ Expmod (a, n, m): # computes a^n mod m
 			return (d * d * a) mod m
 ```
 ##### Comparing the approach
-![[week1ModAlgorithm.png]]
+![[w1n2ModAlgorithm.png]]
 The time taken is significantly faster for method C than B or especially A. Not that for $n=10$ method B was faster than method C, however as $n$ increases B slowed down far faster than C did (this is because C is faster asymptotically, which we will come to later).
 
 ### Sorting arrays
@@ -103,6 +103,6 @@ Merge(B,C):
 ```
 
 ##### Relative performance
-![[week1SortAlgos.png]]
+![[w1n2SortAlgos.png]]
 Merge sort appears fundamentally better (with regard to runtime)
-This relative performance can be precisely defined using [[W2L1 - Asymptotic analysis - o and ω]]
+This relative performance can be precisely defined using [[W2N1 - Asymptotic analysis - o and ω]]

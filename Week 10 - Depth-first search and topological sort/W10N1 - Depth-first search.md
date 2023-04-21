@@ -1,7 +1,7 @@
 Depth-first search is the opposite of [[W9N2 - Breadth-first search|BFS]], in that we first explore as far down a single chain of neighbours of the origin node, before expanding to the rest of the graph.
 
 Animation of the order of which vertices are visited:
-![[220px-Depth-First-Search.gif]]
+![[w10n1AnimatedDFS.gif]]
 
 # Asymptotics
 DFS performed on a graph $G=(V,E)$ takes $O(|V|+|E|)$ time.

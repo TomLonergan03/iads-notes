@@ -7,7 +7,7 @@ Then we can compare their performance
 However, the values of these functions will differ depending on the list they are being applied to, e.g. InsertSort will perform $n$ comparisons on a sorted list while MergeSort will perform $n\textit{ log }n$ comparisons as it will still break each sorted array into its halves.
 
 If we assume $T_I(n)$ and $T_M(n)$ are their respective functions worst case performance, then we could plot a graph:
-![[week2PerformanceGraph.png]]
+![[w2n1PerformanceGraph.png]]
 
 There are several ways to try to capture this behaviour:
 1. $\forall n, T_M(n)<T_I(n)$

@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b864b06519b22dfc",
+        "id": "ff597c2907f7fc51",
         "type": "tabs",
         "children": [
           {
-            "id": "c3986d0a1c5a5ba9",
+            "id": "2a5ef4205cc7712e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 10 - Depth-first search and topological sort/W10N3 - Connected components.md",
+                "file": "Week 11 - Dijkstra and dynamic programming/W11N2 - Dynamic programming.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a05ba0b06ef3a2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 11 - Dijkstra and dynamic programming/W11N3 - Coin changing problem.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 10 - Depth-first search and topological sort/W10N3 - Connected components.md",
+                "file": "Week 11 - Dijkstra and dynamic programming/W11N3 - Coin changing problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 10 - Depth-first search and topological sort/W10N3 - Connected components.md",
+                "file": "Week 11 - Dijkstra and dynamic programming/W11N3 - Coin changing problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 10 - Depth-first search and topological sort/W10N3 - Connected components.md"
+                "file": "Week 11 - Dijkstra and dynamic programming/W11N3 - Coin changing problem.md"
               }
             }
           },
@@ -137,8 +150,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,28 +168,41 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c3986d0a1c5a5ba9",
+  "active": "5a05ba0b06ef3a2d",
   "lastOpenFiles": [
+    "Week 11 - Dijkstra and dynamic programming/W11N3 - Coin changing problem.md",
+    "Week 11 - Dijkstra and dynamic programming/W11N2 - Dynamic programming.md",
+    "Week 11 - Dijkstra and dynamic programming/W11N1 - Dijkstra's Algorithm.md",
+    "backing/Images/w10n1AnimatedDFS.gif",
+    "backing/Images/w9n2AnimatedBFS.gif",
+    "backing/Images/w2n1PerformanceGraph.png",
+    "Week 2 - Asymptotic notation/W2N2 - Summary of asymptotic notation.md",
+    "Week 2 - Asymptotic notation/W2N1 - Asymptotic analysis - o and ω.md",
+    "Week 2 - Asymptotic notation/W2N2 - O, Ω, and Θ.md",
+    "backing/Images/w1n2SortAlgos.png",
+    "backing/Images/w1n2ModAlgorithm.png",
+    "backing/Images/w1n2DivisionAlgorithm.png",
+    "Week 1 - Efficiency of algorithms/W1N1 - What are algorithms and data structures?.md",
+    "Week 1 - Efficiency of algorithms/W1N2 - Inefficient vs efficient algorithms.md",
     "Week 10 - Depth-first search and topological sort/W10N2 - Topological sorting.md",
+    "Week 6 - Heaps/W6N1 - Heap datastructure.md",
+    "Week 9 - Graphs and breadth-first search/W9N1 - Graphs and representations.md",
+    "backing/Images/w11n1DijkstraExample.gif",
+    "Pasted image 20230421180452.png",
+    "README.md",
+    "Pasted image 20230421180416.png",
+    "w11n1DijkstraExample.png",
+    "Week 11 - Dijkstra and dynamic programming",
     "Week 10 - Depth-first search and topological sort/W10N3 - Connected components.md",
     "Week 10 - Depth-first search and topological sort/W10N1 - Depth-first search.md",
-    "backing/Images/w10n2taskGraph.png",
-    "backing/Images/w10n2dfsForest.png",
     "Week 4 - Common datatypes/W4N1 - Classic datatypes.md",
     "Week 9 - Graphs and breadth-first search/W9N2 - Breadth-first search.md",
-    "backing/Images/220px-Depth-First-Search.gif",
     "Week 10 - Depth-first search and topological sort",
-    "backing/Images/Animated_BFS.gif",
-    "Week 9 - Graphs and breadth-first search/W9N1 - Graphs and representations.md",
-    "README.md",
-    "backing/Images/w9n1undirectedGraph.png",
-    "backing/Images/w9n1DirectedGraph.png",
     "Week 8 - QuickSort/W8N1 - QuickSort.md",
     "Week 9 - Graphs and breadth-first search",
     "Week 8 - QuickSort/W8N2 - TimSort.md",
     "Week 7 - Heap sort/W7N1 - Heap sort.md",
     "Week 8 - QuickSort",
-    "Week 6 - Heaps/W6N1 - Heap datastructure.md",
     "Week 6 - Heaps/W6N2 - Priority queue.md",
     "Week 7 - Heap sort",
     "Week 5 - Master theorem/W5N1 - Divide-conquer-combine.md",
@@ -188,21 +213,8 @@
     "Week 4 - Common datatypes",
     "Week 3 - Asymptotic analysis/W3N3 - Representation of data in memory.md",
     "Week 3 - Asymptotic analysis/W3N2 - Asymptotic analysis of sorting algorithms.md",
-    "backing/Images/w3n2mergeSort.png",
-    "Week 2 - Asymptotic notation/W2N1 - Summary of asymptotic notation.md",
-    "Week 2 - Asymptotic notation/W2L2 - O, Ω, and Θ.md",
-    "Week 2 - Asymptotic notation/W2L1 - Asymptotic analysis - o and ω.md",
-    "backing/Images/w3n2DifferingPerformance.png",
     "Week 3 - Asymptotic analysis",
-    "Week 1 - Efficiency of algorithms/W1L2 - Inefficient vs efficient algorithms.md",
-    "Week 1 - Efficiency of algorithms/W1L1 - What are algorithms and data structures?.md",
     "backing/templates/Untitled.md",
-    "backing/Images/week2PerformanceGraph.png",
-    "Week 2 - Asymptotic notation",
-    "backing/Images/week1ModAlgorithm.png",
-    "Pasted image 20230411222739.png.md",
-    "backing",
-    "\"2..md",
-    "2..md"
+    "Week 2 - Asymptotic notation"
   ]
 }

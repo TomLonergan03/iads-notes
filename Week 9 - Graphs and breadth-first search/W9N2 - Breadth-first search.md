@@ -7,7 +7,7 @@ Breadth-first search visits all vertices reachable from a start vertex $v$ in th
 I find BFS can be visualised as if the search is a flood starting at the start node and travelling out at the same speed in all directions.
 Animation of the order of visiting vertices when performing BFS from $a$.
 Grey vertices are in the queue, black vertices have been explored.
-![[Animated_BFS.gif]]
+![[w9n2AnimatedBFS.gif]]
 
 # Asymptotics
 BFS performed on a graph $G=(V,E)$ takes $O(|V|+|E|)$ time.
