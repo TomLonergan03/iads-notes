@@ -49,6 +49,7 @@ iD
 iQQIr
 iU
 iZ
+incredibly
 or
 of
 operations
@@ -267,6 +268,11 @@ sM
 se
 sT
 solved
+solution
+systems
+suggest
+slow
+storage
 multiple
 matter
 many
@@ -392,6 +398,7 @@ eDC
 eg
 eI
 eq
+even
 bounded
 by
 below
@@ -445,6 +452,7 @@ bmv
 bSF
 bÜz
 bhz
+base
 above
 asymptotically
 as
@@ -517,6 +525,7 @@ aX
 aF
 aZb
 af
+application
 no
 number
 not
@@ -608,6 +617,7 @@ wMbr
 wh
 wb
 wlsbY
+would
 Defined
 Different
 Datastructures
@@ -650,6 +660,7 @@ Db
 Dy
 DO
 Dk
+Dynamic
 Can
 CPU
 Create
@@ -783,6 +794,10 @@ coin
 changing
 collection
 coins
+change
+cases
+correct
+combinations
 larger
 lower
 likely
@@ -833,6 +848,8 @@ lyu
 lf
 lz
 lH
+largest
+lot
 upper
 use
 useful
@@ -924,6 +941,7 @@ fl
 fyHU
 fM
 fe
+further
 There
 Typically
 The
@@ -1036,6 +1054,7 @@ pm
 pC
 pl
 pu
+programming
 various
 values
 value
@@ -1185,6 +1204,7 @@ dYt
 dD
 da
 dtp
+dynamic
 how
 have
 halves
@@ -1298,6 +1318,8 @@ rM
 rm
 rD
 rY
+required
+recursing
 Even
 Example
 Extensible
@@ -1463,6 +1485,8 @@ ghr
 gPu
 gJ
 gn
+generalisable
+greedy
 Best
 Basically
 BP
@@ -1660,6 +1684,7 @@ FW
 Fh
 Fg
 Fku
+Fibonacci
 Lists
 Linked
 Likewise
@@ -1825,6 +1850,7 @@ GH
 GB
 Gm
 GP
+Greedy
 just
 jgc
 jkk

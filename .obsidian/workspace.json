@@ -4,28 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "ff597c2907f7fc51",
+        "id": "a68aa9868dc9b1ee",
         "type": "tabs",
         "children": [
           {
-            "id": "2a5ef4205cc7712e",
+            "id": "c2b911de1d6e464a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 11 - Dijkstra and dynamic programming/W11N2 - Dynamic programming.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "5a05ba0b06ef3a2d",
+            "id": "c0845e18225cb1ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 11 - Dijkstra and dynamic programming/W11N3 - Coin changing problem.md",
+                "file": "Week 12 - Dynamic programming applications/W12N1 - Seam carving.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 11 - Dijkstra and dynamic programming/W11N3 - Coin changing problem.md",
+                "file": "Week 12 - Dynamic programming applications/W12N1 - Seam carving.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 11 - Dijkstra and dynamic programming/W11N3 - Coin changing problem.md",
+                "file": "Week 12 - Dynamic programming applications/W12N1 - Seam carving.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 11 - Dijkstra and dynamic programming/W11N3 - Coin changing problem.md"
+                "file": "Week 12 - Dynamic programming applications/W12N1 - Seam carving.md"
               }
             }
           },
@@ -168,10 +164,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5a05ba0b06ef3a2d",
+  "active": "c0845e18225cb1ea",
   "lastOpenFiles": [
-    "Week 11 - Dijkstra and dynamic programming/W11N3 - Coin changing problem.md",
+    "README.md",
+    "Week 12 - Dynamic programming applications/W12N1 - Seam carving.md",
+    "Week 12 - Dynamic programming applications",
     "Week 11 - Dijkstra and dynamic programming/W11N2 - Dynamic programming.md",
+    "Week 11 - Dijkstra and dynamic programming/W11N3 - Coin changing problem.md",
     "Week 11 - Dijkstra and dynamic programming/W11N1 - Dijkstra's Algorithm.md",
     "backing/Images/w10n1AnimatedDFS.gif",
     "backing/Images/w9n2AnimatedBFS.gif",
@@ -189,7 +188,6 @@
     "Week 9 - Graphs and breadth-first search/W9N1 - Graphs and representations.md",
     "backing/Images/w11n1DijkstraExample.gif",
     "Pasted image 20230421180452.png",
-    "README.md",
     "Pasted image 20230421180416.png",
     "w11n1DijkstraExample.png",
     "Week 11 - Dijkstra and dynamic programming",
@@ -213,8 +211,6 @@
     "Week 4 - Common datatypes",
     "Week 3 - Asymptotic analysis/W3N3 - Representation of data in memory.md",
     "Week 3 - Asymptotic analysis/W3N2 - Asymptotic analysis of sorting algorithms.md",
-    "Week 3 - Asymptotic analysis",
-    "backing/templates/Untitled.md",
-    "Week 2 - Asymptotic notation"
+    "Week 3 - Asymptotic analysis"
   ]
 }

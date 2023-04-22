@@ -26,3 +26,10 @@ DynamicFibonacci(n):
 
 This case runs in $\Theta(n)$ time, and requires $\Theta(n)$ storage space for the array.
 
+
+# Principles
+A dynamic programming approach is suitable when:
+1. Computing the optimal solution can be achieved by finding solutions to smaller problems of the same type and combining them.
+2. The solution is expressible in terms of a recurrence, where the right side contains one or more recursive calls to solve a smaller version of the same problem.
+3. Storing results of all possible sub-problems must be possible and polynomially bounded.
+4. The sub-problems on the right side of the recurrence must be computed in advance of computing the left side. This must be controllable by an algorithm.
