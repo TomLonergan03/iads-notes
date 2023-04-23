@@ -50,6 +50,9 @@ iQQIr
 iU
 iZ
 incredibly
+images
+image
+information
 or
 of
 operations
@@ -109,6 +112,8 @@ oaO
 owb
 ov
 overall
+operators
+opt
 there
 that
 than
@@ -177,6 +182,7 @@ tL
 tR
 tF
 twice
+tip
 some
 smaller
 so
@@ -273,6 +279,12 @@ systems
 suggest
 slow
 storage
+seams
+scaling
+seam
+select
+score
+summed
 multiple
 matter
 many
@@ -399,6 +411,9 @@ eg
 eI
 eq
 even
+energy
+ends
+endpoint
 bounded
 by
 below
@@ -453,6 +468,7 @@ bSF
 bÜz
 bhz
 base
+begin
 above
 asymptotically
 as
@@ -526,6 +542,10 @@ aF
 aZb
 af
 application
+approach
+across
+avoids
+align
 no
 number
 not
@@ -689,6 +709,7 @@ CRd
 Czb
 CKz
 CG
+Computing
 consider
 compare
 cost
@@ -798,6 +819,12 @@ change
 cases
 correct
 combinations
+carving
+caused
+cropping
+calculates
+colour
+channels
 larger
 lower
 likely
@@ -850,6 +877,9 @@ lz
 lH
 largest
 lot
+loss
+little
+leq
 upper
 use
 useful
@@ -1055,6 +1085,8 @@ pC
 pl
 pu
 programming
+pixels
+pixel
 various
 values
 value
@@ -1093,6 +1125,7 @@ vh
 vR
 vlG
 vaT
+vertical
 kinds
 know
 keys
@@ -1139,6 +1172,7 @@ WQ
 Wt
 WcN
 Wm
+Which
 definition
 different
 disk
@@ -1205,6 +1239,10 @@ dD
 da
 dtp
 dynamic
+duplicating
+distortion
+difference
+directly
 how
 have
 halves
@@ -1320,6 +1358,8 @@ rD
 rY
 required
 recursing
+resizing
+running
 Even
 Example
 Extensible
@@ -1381,6 +1421,7 @@ AAAFFFKKKOOORRRTTT
 Ah
 AC
 AF
+Assume
 InsertSort
 Is
 In
@@ -1487,6 +1528,7 @@ gJ
 gn
 generalisable
 greedy
+gradient
 Best
 Basically
 BP
@@ -1523,6 +1565,7 @@ BIH
 BQ
 BJ
 BA
+Building
 quantitative
 queues
 queue
@@ -1738,6 +1781,8 @@ SO
 Su
 SGx
 Sc
+Seam
+Sobel
 Notes
 NG
 NK

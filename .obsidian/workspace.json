@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a68aa9868dc9b1ee",
+        "id": "9253e54653d4a35a",
         "type": "tabs",
         "children": [
           {
-            "id": "c2b911de1d6e464a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "c0845e18225cb1ea",
+            "id": "2edc6ff61be69034",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 12 - Dynamic programming applications/W12N1 - Seam carving.md",
+                "file": "Week 12 - Dynamic programming applications/W12N2 - Edit distance.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 12 - Dynamic programming applications/W12N1 - Seam carving.md",
+                "file": "Week 12 - Dynamic programming applications/W12N2 - Edit distance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 12 - Dynamic programming applications/W12N1 - Seam carving.md",
+                "file": "Week 12 - Dynamic programming applications/W12N2 - Edit distance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 12 - Dynamic programming applications/W12N1 - Seam carving.md"
+                "file": "Week 12 - Dynamic programming applications/W12N2 - Edit distance.md"
               }
             }
           },
@@ -164,11 +155,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c0845e18225cb1ea",
+  "active": "2edc6ff61be69034",
   "lastOpenFiles": [
-    "README.md",
+    "W12N2 - Edit distance.md",
+    "Week 12 - Dynamic programming applications/W12N2 - Edit distance.md",
     "Week 12 - Dynamic programming applications/W12N1 - Seam carving.md",
     "Week 12 - Dynamic programming applications",
+    "README.md",
     "Week 11 - Dijkstra and dynamic programming/W11N2 - Dynamic programming.md",
     "Week 11 - Dijkstra and dynamic programming/W11N3 - Coin changing problem.md",
     "Week 11 - Dijkstra and dynamic programming/W11N1 - Dijkstra's Algorithm.md",
@@ -209,8 +202,6 @@
     "Week 5 - Master theorem",
     "Week 4 - Common datatypes/W4N2 - Sets, hashmap, and hashing.md",
     "Week 4 - Common datatypes",
-    "Week 3 - Asymptotic analysis/W3N3 - Representation of data in memory.md",
-    "Week 3 - Asymptotic analysis/W3N2 - Asymptotic analysis of sorting algorithms.md",
     "Week 3 - Asymptotic analysis"
   ]
 }
