@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a68aa9868dc9b1ee",
+        "id": "bd64b349530b9392",
         "type": "tabs",
         "children": [
           {
-            "id": "c2b911de1d6e464a",
+            "id": "638d2681f3c561bd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Week 13 - Probabilistic FSMs and Viterbi/W13N3 - Viterbi's Algorithm.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Week 13 - Probabilistic FSMs and Viterbi/W13N3 - Viterbi's Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Week 13 - Probabilistic FSMs and Viterbi/W13N3 - Viterbi's Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Week 13 - Probabilistic FSMs and Viterbi/W13N3 - Viterbi's Algorithm.md"
+              }
             }
           },
           {
@@ -147,9 +155,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c2b911de1d6e464a",
+  "active": "638d2681f3c561bd",
   "lastOpenFiles": [
     "Week 12 - Dynamic programming applications/W12N2 - Edit distance.md",
+    "Week 13 - Probabilistic FSMs and Viterbi/W13N3 - Viterbi's Algorithm.md",
+    "Week 13 - Probabilistic FSMs and Viterbi/W13N2 - Hidden Markov Models.md",
+    "backing/Images/w13n3WeatherHMMOutput.png",
+    "Week 13 - Probabilistic FSMs and Viterbi/W13N1 - Probabilistic Finite State Machines.md",
+    "backing/Images/w13n1WeatherHMM.png",
+    "Week 13 - Probabilistic FSMs and Viterbi",
     "Week 12 - Dynamic programming applications/W12N1 - Seam carving.md",
     "README.md",
     "Week 12 - Dynamic programming applications",
@@ -172,8 +186,6 @@
     "Week 9 - Graphs and breadth-first search/W9N1 - Graphs and representations.md",
     "backing/Images/w11n1DijkstraExample.gif",
     "Pasted image 20230421180452.png",
-    "Pasted image 20230421180416.png",
-    "w11n1DijkstraExample.png",
     "Week 11 - Dijkstra and dynamic programming",
     "Week 10 - Depth-first search and topological sort/W10N3 - Connected components.md",
     "Week 10 - Depth-first search and topological sort/W10N1 - Depth-first search.md",
@@ -187,13 +199,8 @@
     "Week 8 - QuickSort",
     "Week 6 - Heaps/W6N2 - Priority queue.md",
     "Week 7 - Heap sort",
-    "Week 5 - Master theorem/W5N1 - Divide-conquer-combine.md",
     "Week 6 - Heaps",
-    "Week 3 - Asymptotic analysis/W3N1 - Asymptotic analysis.md",
     "Week 5 - Master theorem",
-    "Week 4 - Common datatypes/W4N2 - Sets, hashmap, and hashing.md",
-    "Week 4 - Common datatypes",
-    "Week 3 - Asymptotic analysis/W3N3 - Representation of data in memory.md",
-    "Week 3 - Asymptotic analysis"
+    "Week 4 - Common datatypes"
   ]
 }

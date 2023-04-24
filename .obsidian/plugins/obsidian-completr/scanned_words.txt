@@ -53,6 +53,11 @@ incredibly
 images
 image
 information
+input
+incoming
+initial
+insertion
+insertions
 or
 of
 operations
@@ -112,6 +117,12 @@ oaO
 owb
 ov
 overall
+output
+off
+outputs
+outputting
+optimum
+over
 there
 that
 than
@@ -181,6 +192,12 @@ tR
 tF
 twice
 tip
+transition
+transitions
+transducer
+tests
+transitioning
+tested
 some
 smaller
 so
@@ -282,6 +299,14 @@ scaling
 seam
 select
 score
+state
+string
+strings
+sequences
+substitution
+substitute
+substitutions
+sized
 multiple
 matter
 many
@@ -348,6 +373,9 @@ mCyv
 mB
 mmD
 mLGg
+modelling
+minimum
+match
 eventually
 execute
 each
@@ -409,6 +437,16 @@ eI
 eq
 even
 energy
+enters
+equally
+emission
+emitted
+ends
+edit
+exponentially
+ensure
+ended
+emitting
 bounded
 by
 below
@@ -463,6 +501,7 @@ bSF
 bÜz
 bhz
 base
+based
 above
 asymptotically
 as
@@ -539,6 +578,13 @@ application
 approach
 across
 avoids
+associated
+accepted
+according
+arrive
+alphabet
+alignment
+alignments
 no
 number
 not
@@ -585,6 +631,9 @@ nl
 nR
 nC
 nA
+nondeterministic
+natural
+nested
 what
 ways
 we
@@ -631,6 +680,9 @@ wh
 wb
 wlsbY
 would
+weather
+words
+whether
 Defined
 Different
 Datastructures
@@ -674,6 +726,7 @@ Dy
 DO
 Dk
 Dynamic
+DNA
 Can
 CPU
 Create
@@ -702,6 +755,7 @@ CRd
 Czb
 CKz
 CG
+Computing
 consider
 compare
 cost
@@ -815,6 +869,11 @@ carving
 caused
 cropping
 calculates
+character
+chance
+clouds
+column
+computed
 larger
 lower
 likely
@@ -869,6 +928,8 @@ largest
 lot
 loss
 little
+longer
+likelihood
 upper
 use
 useful
@@ -961,6 +1022,8 @@ fyHU
 fM
 fe
 further
+finding
+finally
 There
 Typically
 The
@@ -1003,6 +1066,7 @@ TH
 TXXXX
 Tn
 TUW
+To
 possible
 purposes
 performed
@@ -1076,6 +1140,9 @@ pu
 programming
 pixels
 pixel
+probabilistic
+probability
+padding
 various
 values
 value
@@ -1114,6 +1181,7 @@ vh
 vR
 vlG
 vaT
+valid
 kinds
 know
 keys
@@ -1140,6 +1208,7 @@ kP
 kb
 kY
 kV
+keep
 We
 Worst
 When
@@ -1160,6 +1229,7 @@ WQ
 Wt
 WcN
 Wm
+What
 definition
 different
 disk
@@ -1230,6 +1300,12 @@ duplicating
 distortion
 difference
 directly
+deterministic
+definitely
+distribution
+day
+deletion
+deletions
 how
 have
 halves
@@ -1265,6 +1341,9 @@ hQ
 hm
 ho
 happen
+hail
+help
+haven
 runtime
 runtimes
 run
@@ -1347,6 +1426,10 @@ required
 recursing
 resizing
 running
+rejected
+rain
+repeating
+respectively
 Even
 Example
 Extensible
@@ -1515,6 +1598,8 @@ gn
 generalisable
 greedy
 gradient
+generates
+generate
 Best
 Basically
 BP
@@ -1612,6 +1697,9 @@ Mc
 MC
 Me
 MrU
+Machine
+Markov
+Model
 However
 How
 Heapify
@@ -1652,6 +1740,7 @@ HXP
 Hk
 HF
 Having
+Hidden
 Rigorous
 Rigorously
 Recursion
@@ -1682,6 +1771,8 @@ Rz
 Ro
 RCad
 RN
+RNA
+Recurrence
 First
 Fixed
 Fast
@@ -1714,6 +1805,8 @@ Fh
 Fg
 Fku
 Fibonacci
+Finite
+FSM
 Lists
 Linked
 Likewise
@@ -1768,6 +1861,7 @@ Su
 SGx
 Sc
 Seam
+State
 Notes
 NG
 NK
