@@ -112,8 +112,6 @@ oaO
 owb
 ov
 overall
-operators
-opt
 there
 that
 than
@@ -284,7 +282,6 @@ scaling
 seam
 select
 score
-summed
 multiple
 matter
 many
@@ -412,8 +409,6 @@ eI
 eq
 even
 energy
-ends
-endpoint
 bounded
 by
 below
@@ -468,7 +463,6 @@ bSF
 bÜz
 bhz
 base
-begin
 above
 asymptotically
 as
@@ -545,7 +539,6 @@ application
 approach
 across
 avoids
-align
 no
 number
 not
@@ -709,7 +702,6 @@ CRd
 Czb
 CKz
 CG
-Computing
 consider
 compare
 cost
@@ -823,8 +815,6 @@ carving
 caused
 cropping
 calculates
-colour
-channels
 larger
 lower
 likely
@@ -879,7 +869,6 @@ largest
 lot
 loss
 little
-leq
 upper
 use
 useful
@@ -1125,7 +1114,6 @@ vh
 vR
 vlG
 vaT
-vertical
 kinds
 know
 keys
@@ -1172,7 +1160,6 @@ WQ
 Wt
 WcN
 Wm
-Which
 definition
 different
 disk
@@ -1421,7 +1408,6 @@ AAAFFFKKKOOORRRTTT
 Ah
 AC
 AF
-Assume
 InsertSort
 Is
 In
@@ -1782,7 +1768,6 @@ Su
 SGx
 Sc
 Seam
-Sobel
 Notes
 NG
 NK
