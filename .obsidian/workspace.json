@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9cc4963e7395591f",
+        "id": "4805e712f1a29a1e",
         "type": "tabs",
         "children": [
           {
-            "id": "9b204a8285225091",
+            "id": "b8c59a1881a8aa0e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Week 14 - Parsing context-free languages/W14N2 - LL(1) Parsing.md",
-                "mode": "source",
-                "source": false
+                "file": "backing/Images/w14n3JavaProcessing.png"
               }
             }
           }
@@ -69,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 289.5
   },
   "right": {
     "id": "b2f267aedf74c740",
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 14 - Parsing context-free languages/W14N2 - LL(1) Parsing.md",
+                "file": "backing/Images/w14n3JavaProcessing.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 14 - Parsing context-free languages/W14N2 - LL(1) Parsing.md",
+                "file": "backing/Images/w14n3JavaProcessing.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 14 - Parsing context-free languages/W14N2 - LL(1) Parsing.md"
+                "file": "backing/Images/w14n3JavaProcessing.png"
               }
             }
           },
@@ -157,9 +155,13 @@
   },
   "active": "245016979c3189b3",
   "lastOpenFiles": [
+    "Week 14 - Parsing context-free languages/W14N3 - LL(1) Parsing.md",
+    "backing/Images/w14n3EnglishProcessing.png",
+    "backing/Images/w14n3JavaProcessing.png",
     "Week 14 - Parsing context-free languages/W14N1 - Parsing context-free languages.md",
+    "Week 4 - Common datatypes/W4N1 - Classic datatypes.md",
+    "Week 14 - Parsing context-free languages/W14N2 - Chomsky normal form.md",
     "Week 13 - Probabilistic FSMs and context-free languages/W13N4 - Context-free languages and grammars.md",
-    "Week 14 - Parsing context-free languages/W14N2 - LL(1) Parsing.md",
     "backing/Images/w14n1ParsingTree.png",
     "README.md",
     "backing/Images/w13n4StructuralAmbiguity.png",
@@ -181,11 +183,9 @@
     "Week 11 - Dijkstra and dynamic programming/W11N1 - Dijkstra's Algorithm.md",
     "backing/Images/w10n1AnimatedDFS.gif",
     "backing/Images/w9n2AnimatedBFS.gif",
-    "backing/Images/w2n1PerformanceGraph.png",
     "Week 2 - Asymptotic notation/W2N2 - Summary of asymptotic notation.md",
     "Week 2 - Asymptotic notation/W2N1 - Asymptotic analysis - o and ω.md",
     "Week 2 - Asymptotic notation/W2N2 - O, Ω, and Θ.md",
-    "backing/Images/w1n2SortAlgos.png",
     "Week 1 - Efficiency of algorithms/W1N1 - What are algorithms and data structures?.md",
     "Week 1 - Efficiency of algorithms/W1N2 - Inefficient vs efficient algorithms.md",
     "Week 10 - Depth-first search and topological sort/W10N2 - Topological sorting.md",
@@ -194,12 +194,9 @@
     "Week 11 - Dijkstra and dynamic programming",
     "Week 10 - Depth-first search and topological sort/W10N3 - Connected components.md",
     "Week 10 - Depth-first search and topological sort/W10N1 - Depth-first search.md",
-    "Week 4 - Common datatypes/W4N1 - Classic datatypes.md",
     "Week 9 - Graphs and breadth-first search/W9N2 - Breadth-first search.md",
     "Week 10 - Depth-first search and topological sort",
-    "Week 8 - QuickSort/W8N1 - QuickSort.md",
     "Week 9 - Graphs and breadth-first search",
-    "Week 8 - QuickSort/W8N2 - TimSort.md",
     "Week 8 - QuickSort",
     "Week 7 - Heap sort",
     "Week 6 - Heaps"
