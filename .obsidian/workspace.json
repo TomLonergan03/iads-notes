@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bd64b349530b9392",
+        "id": "95a5f5fc2ce26890",
         "type": "tabs",
         "children": [
           {
-            "id": "638d2681f3c561bd",
+            "id": "0ba2fab902230a33",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 13 - Probabilistic FSMs and Viterbi/W13N3 - Viterbi's Algorithm.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 13 - Probabilistic FSMs and Viterbi/W13N3 - Viterbi's Algorithm.md",
+                "file": "backing/Images/w14n4SyntaxTrees.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 13 - Probabilistic FSMs and Viterbi/W13N3 - Viterbi's Algorithm.md",
+                "file": "backing/Images/w14n4SyntaxTrees.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 13 - Probabilistic FSMs and Viterbi/W13N3 - Viterbi's Algorithm.md"
+                "file": "backing/Images/w14n4SyntaxTrees.png"
               }
             }
           },
@@ -155,15 +151,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "638d2681f3c561bd",
+  "active": "245016979c3189b3",
   "lastOpenFiles": [
+    "Week 13 - Probabilistic FSMs and context-free languages/W14N4 - Context-free languages and grammars.md",
+    "backing/Images/w14n4StructuralAmbiguity.png",
+    "backing/Images/w14n4GeneratingSyntaxTree.png",
+    "backing/Images/w14n4SyntaxTrees.png",
+    "Week 13 - Probabilistic FSMs and context-free languages/W13N3 - Viterbi's Algorithm.md",
+    "Week 14 -",
     "Week 12 - Dynamic programming applications/W12N2 - Edit distance.md",
-    "Week 13 - Probabilistic FSMs and Viterbi/W13N3 - Viterbi's Algorithm.md",
-    "Week 13 - Probabilistic FSMs and Viterbi/W13N2 - Hidden Markov Models.md",
+    "Week 13 - Probabilistic FSMs and context-free languages/W13N2 - Hidden Markov Models.md",
     "backing/Images/w13n3WeatherHMMOutput.png",
-    "Week 13 - Probabilistic FSMs and Viterbi/W13N1 - Probabilistic Finite State Machines.md",
+    "Week 13 - Probabilistic FSMs and context-free languages/W13N1 - Probabilistic Finite State Machines.md",
     "backing/Images/w13n1WeatherHMM.png",
-    "Week 13 - Probabilistic FSMs and Viterbi",
+    "Week 13 - Probabilistic FSMs and context-free languages",
     "Week 12 - Dynamic programming applications/W12N1 - Seam carving.md",
     "README.md",
     "Week 12 - Dynamic programming applications",
@@ -178,14 +179,11 @@
     "Week 2 - Asymptotic notation/W2N2 - O, Ω, and Θ.md",
     "backing/Images/w1n2SortAlgos.png",
     "backing/Images/w1n2ModAlgorithm.png",
-    "backing/Images/w1n2DivisionAlgorithm.png",
     "Week 1 - Efficiency of algorithms/W1N1 - What are algorithms and data structures?.md",
     "Week 1 - Efficiency of algorithms/W1N2 - Inefficient vs efficient algorithms.md",
     "Week 10 - Depth-first search and topological sort/W10N2 - Topological sorting.md",
     "Week 6 - Heaps/W6N1 - Heap datastructure.md",
     "Week 9 - Graphs and breadth-first search/W9N1 - Graphs and representations.md",
-    "backing/Images/w11n1DijkstraExample.gif",
-    "Pasted image 20230421180452.png",
     "Week 11 - Dijkstra and dynamic programming",
     "Week 10 - Depth-first search and topological sort/W10N3 - Connected components.md",
     "Week 10 - Depth-first search and topological sort/W10N1 - Depth-first search.md",
@@ -197,10 +195,8 @@
     "Week 8 - QuickSort/W8N2 - TimSort.md",
     "Week 7 - Heap sort/W7N1 - Heap sort.md",
     "Week 8 - QuickSort",
-    "Week 6 - Heaps/W6N2 - Priority queue.md",
     "Week 7 - Heap sort",
     "Week 6 - Heaps",
-    "Week 5 - Master theorem",
-    "Week 4 - Common datatypes"
+    "Week 5 - Master theorem"
   ]
 }
