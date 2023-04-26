@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "95a5f5fc2ce26890",
+        "id": "9cc4963e7395591f",
         "type": "tabs",
         "children": [
           {
-            "id": "0ba2fab902230a33",
+            "id": "9b204a8285225091",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Week 14 - Parsing context-free languages/W14N2 - LL(1) Parsing.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "backing/Images/w14n4SyntaxTrees.png",
+                "file": "Week 14 - Parsing context-free languages/W14N2 - LL(1) Parsing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "backing/Images/w14n4SyntaxTrees.png",
+                "file": "Week 14 - Parsing context-free languages/W14N2 - LL(1) Parsing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "backing/Images/w14n4SyntaxTrees.png"
+                "file": "Week 14 - Parsing context-free languages/W14N2 - LL(1) Parsing.md"
               }
             }
           },
@@ -153,10 +157,15 @@
   },
   "active": "245016979c3189b3",
   "lastOpenFiles": [
-    "Week 13 - Probabilistic FSMs and context-free languages/W14N4 - Context-free languages and grammars.md",
-    "backing/Images/w14n4StructuralAmbiguity.png",
-    "backing/Images/w14n4GeneratingSyntaxTree.png",
-    "backing/Images/w14n4SyntaxTrees.png",
+    "Week 14 - Parsing context-free languages/W14N1 - Parsing context-free languages.md",
+    "Week 13 - Probabilistic FSMs and context-free languages/W13N4 - Context-free languages and grammars.md",
+    "Week 14 - Parsing context-free languages/W14N2 - LL(1) Parsing.md",
+    "backing/Images/w14n1ParsingTree.png",
+    "README.md",
+    "backing/Images/w13n4StructuralAmbiguity.png",
+    "backing/Images/w13n4GeneratingSyntaxTree.png",
+    "backing/Images/w13n4SyntaxTrees.png",
+    "Week 14 - Parsing context-free languages",
     "Week 13 - Probabilistic FSMs and context-free languages/W13N3 - Viterbi's Algorithm.md",
     "Week 14 -",
     "Week 12 - Dynamic programming applications/W12N2 - Edit distance.md",
@@ -166,7 +175,6 @@
     "backing/Images/w13n1WeatherHMM.png",
     "Week 13 - Probabilistic FSMs and context-free languages",
     "Week 12 - Dynamic programming applications/W12N1 - Seam carving.md",
-    "README.md",
     "Week 12 - Dynamic programming applications",
     "Week 11 - Dijkstra and dynamic programming/W11N2 - Dynamic programming.md",
     "Week 11 - Dijkstra and dynamic programming/W11N3 - Coin changing problem.md",
@@ -178,7 +186,6 @@
     "Week 2 - Asymptotic notation/W2N1 - Asymptotic analysis - o and ω.md",
     "Week 2 - Asymptotic notation/W2N2 - O, Ω, and Θ.md",
     "backing/Images/w1n2SortAlgos.png",
-    "backing/Images/w1n2ModAlgorithm.png",
     "Week 1 - Efficiency of algorithms/W1N1 - What are algorithms and data structures?.md",
     "Week 1 - Efficiency of algorithms/W1N2 - Inefficient vs efficient algorithms.md",
     "Week 10 - Depth-first search and topological sort/W10N2 - Topological sorting.md",
@@ -193,10 +200,8 @@
     "Week 8 - QuickSort/W8N1 - QuickSort.md",
     "Week 9 - Graphs and breadth-first search",
     "Week 8 - QuickSort/W8N2 - TimSort.md",
-    "Week 7 - Heap sort/W7N1 - Heap sort.md",
     "Week 8 - QuickSort",
     "Week 7 - Heap sort",
-    "Week 6 - Heaps",
-    "Week 5 - Master theorem"
+    "Week 6 - Heaps"
   ]
 }

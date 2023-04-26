@@ -65,6 +65,10 @@ iGAr
 internal
 impact
 inferred
+ip
+iCO
+impractical
+include
 or
 of
 operations
@@ -217,6 +221,8 @@ telescope
 tPs
 tay
 tU
+tbdzyu
+transformed
 some
 smaller
 so
@@ -337,6 +343,11 @@ strict
 sentences
 saw
 setential
+sensitive
+sy
+sgqbb
+special
+short
 multiple
 matter
 many
@@ -412,6 +423,9 @@ meaning
 mathematics
 meanings
 man
+might
+mr
+mk
 eventually
 execute
 each
@@ -487,6 +501,8 @@ expressions
 expression
 expanded
 expand
+expandable
+el
 bounded
 by
 below
@@ -637,6 +653,9 @@ arithmetic
 ambiguity
 answers
 artificial
+aYA
+algorithmicly
+another
 no
 number
 not
@@ -690,6 +709,9 @@ nCB
 nt
 nh
 name
+nu
+nzg
+noun
 what
 ways
 we
@@ -742,6 +764,7 @@ whether
 word
 wG
 wQ
+wu
 Defined
 Different
 Datastructures
@@ -822,6 +845,13 @@ CKz
 CG
 Computing
 Context
+CL
+CFG
+Cocke
+CYK
+Chomsky
+CNF
+CNFs
 consider
 compare
 cost
@@ -945,6 +975,12 @@ central
 context
 consists
 cy
+contrast
+certain
+contexts
+cid
+cV
+class
 larger
 lower
 likely
@@ -1007,6 +1043,9 @@ lG
 languages
 legal
 life
+lM
+lF
+long
 upper
 use
 useful
@@ -1043,6 +1082,8 @@ utX
 uJg
 uU
 uEC
+uS
+uy
 for
 focus
 from
@@ -1107,6 +1148,8 @@ follows
 fact
 forms
 ft
+fBj
+fine
 There
 Typically
 The
@@ -1153,6 +1196,8 @@ To
 TQ
 Terminals
 TB
+TL
+Tu
 possible
 purposes
 performed
@@ -1237,6 +1282,11 @@ placing
 parsed
 precedence
 productions
+parsing
+parses
+production
+possibly
+parse
 various
 values
 value
@@ -1305,6 +1355,7 @@ kY
 kV
 keep
 ks
+kM
 We
 Worst
 When
@@ -1414,6 +1465,8 @@ disjoint
 derived
 derivable
 dL
+de
+duplication
 how
 have
 halves
@@ -1454,6 +1507,9 @@ help
 haven
 hN
 ha
+hZ
+hjN
+hand
 runtime
 runtimes
 run
@@ -1545,6 +1601,7 @@ rc
 real
 represents
 rules
+rule
 Even
 Example
 Extensible
@@ -1577,6 +1634,7 @@ Examples
 English
 EoTw
 EVg
+Eq
 An
 Asymptotic
 Any
@@ -1614,6 +1672,9 @@ AF
 Ac
 AHlsy
 AA
+APY
+Aan
+Algorithm
 InsertSort
 Is
 In
@@ -1688,6 +1749,8 @@ Yk
 YLx
 YV
 YX
+Ym
+Younger
 given
 graph
 general
@@ -1732,6 +1795,7 @@ grammar
 generated
 generally
 gVn
+grammars
 Best
 Basically
 BP
@@ -1772,6 +1836,8 @@ Building
 Bf
 BSTnF
 BH
+BSTZ
+BC
 quantitative
 queues
 queue
@@ -1801,6 +1867,8 @@ qX
 qhh
 qu
 qD
+qR
+quickly
 MergeSort
 Method
 Merge
@@ -1837,6 +1905,7 @@ Machine
 Markov
 Model
 MDd
+Ma
 However
 How
 Heapify
@@ -1952,6 +2021,7 @@ FX
 Ffs
 Formal
 Formally
+Fj
 Lists
 Linked
 Likewise
@@ -1982,6 +2052,7 @@ Lx
 LLL
 Lsv
 LhB
+LanR
 Stacks
 Sometimes
 So
@@ -2068,6 +2139,9 @@ Ou
 Often
 OC
 Ol
+OAnrg
+Oa
+OP
 Probing
 Peek
 Partition
@@ -2158,6 +2232,10 @@ jm
 ji
 jz
 jum
+jj
+jAU
+jBj
+jAai
 Using
 UEGGG
 UF
@@ -2232,6 +2310,7 @@ yO
 yLuS
 yy
 yZ
+yCd
 KKKt
 KO
 Kw
@@ -2267,6 +2346,7 @@ Kh
 Ka
 KL
 KX
+Kasami
 VVVl
 VN
 VSS
@@ -2294,6 +2374,7 @@ VI
 Vl
 Vk
 VW
+VZ
 ZR
 Zx
 ZD
@@ -2309,6 +2390,7 @@ Zm
 ZEEB
 Zz
 ZH
+Zw
 Ji
 JLL
 Jw
@@ -2333,6 +2415,7 @@ JKV
 JbttT
 JNdk
 Js
+Just
 XO
 XYYI
 XIh
@@ -2358,6 +2441,8 @@ XB
 Xo
 Xv
 XG
+XR
+XLGQ
 zo
 zjR
 zx
