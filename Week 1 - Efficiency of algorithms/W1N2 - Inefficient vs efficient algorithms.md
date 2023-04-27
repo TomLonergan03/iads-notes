@@ -87,7 +87,7 @@ InsertSort(A)
 ```
 
 ##### MergeSort
-We can instead sort the array by splitting it in two halves, sorting the halves, the merging the results
+We can instead sort the array by splitting it in two halves, sorting the halves, then merging the results
 ```
 Merge(B,C):
 	D = [] \cdot  (|B| + |C|)

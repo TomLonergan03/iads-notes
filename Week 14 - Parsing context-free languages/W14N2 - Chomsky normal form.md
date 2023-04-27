@@ -78,4 +78,4 @@ The grammar is now in CNF so we are done.
 
 # Asymptotics
 Given a grammar $G$ with $M$ rules, we can get a $G'$ with $O(m^2)$ rules.
-Finding the smallest CNF grammar equivalent to $G$ is an NP-hard problem.
+Finding the smallest CNF grammar equivalent to $G$ is an [[W16N1 - P and NP#NP-hard|NP-hard]] problem.
