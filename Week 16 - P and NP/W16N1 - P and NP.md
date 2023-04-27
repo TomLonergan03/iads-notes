@@ -21,14 +21,18 @@ The complexity class $P$ includes all decision problems which can be solved by a
 The complexity class $NP$ contains all decision problems where a potential solution can be validated in polynomial time. This means that $P\subset NP$, as by definition, if we can solve a problem in polynomial time we can validate that result in polynomial time.
 
 # Reductions between problems
-A problem $R$ can be reduced to the problem $Q$ if there is a polynomial-time function $f: \{0,1\}^*\rightarrow\{0,1\}^*$ (when defining a two character language such as binary) such that for all instances $J$ of $R$:
+A problem $R$ can be reduced to the problem $Q$ if there is a polynomial-time function $f: \{0,1\}^*\rightarrow\{0,1\}^*$ (when defining problems in a two character language such as binary) such that for all instances $J$ of $R$:
 $$
 \begin{matrix}
-	R(J)=1 & \Leftrightarrow & Q(F(J))=1
+	R(J)=1 & \Leftrightarrow & Q(f(J))=1
 \end{matrix}
 $$
 This means that $R$ is no harder than $Q$ (in the context of polynomial-time computation), and that $Q$ is at least as hard as $R$.
 This is written as $R\leq_PQ$.
+
+- If $Q\in P$ then $R\in P$
+- If $R$ is NP-complete then $Q$ is also NP-complete
+($\leq_P$ is not like $\leq$ or $O()$, as we can ignore all polynomial factors)
 
 # NP-completeness
 A decision problem $Q$ is said to be **NP-complete** if $Q\in NP$ and for every problem $R\in NP$ then $R\leq_PQ$.

@@ -76,6 +76,7 @@ indicates
 iterating
 incoming
 initial
+ignore
 or
 of
 operations
@@ -148,6 +149,7 @@ output
 optimises
 outputs
 outputting
+ored
 there
 that
 than
@@ -240,6 +242,7 @@ transitions
 transducer
 tests
 transitioning
+together
 some
 smaller
 so
@@ -383,6 +386,9 @@ solutions
 stored
 sources
 splits
+statisfiability
+satisfies
+satisfy
 multiple
 matter
 many
@@ -704,6 +710,7 @@ allowed
 arrive
 according
 accepted
+assignments
 no
 number
 not
@@ -897,6 +904,7 @@ Converting
 Consider
 Cocke
 CYK
+Cooke
 consider
 compare
 cost
@@ -1045,6 +1053,9 @@ constituent
 convert
 chance
 clouds
+canonical
+conjunctive
+combination
 larger
 lower
 likely
@@ -1109,6 +1120,7 @@ looks
 loops
 likelihood
 longer
+logical
 upper
 use
 useful
@@ -1215,6 +1227,8 @@ forms
 finds
 fine
 fill
+factors
+format
 There
 Typically
 The
@@ -1358,6 +1372,8 @@ position
 primary
 probability
 probabilistic
+proven
+propositional
 various
 values
 value
@@ -1402,6 +1418,7 @@ validated
 validate
 variable
 varies
+variables
 kinds
 know
 keys
@@ -2123,6 +2140,7 @@ Lookup
 Lets
 LR
 Lastly
+Levin
 Stacks
 Sometimes
 So

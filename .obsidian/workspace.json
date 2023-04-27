@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c454b6637fb52bf7",
+        "id": "ec308aa7092852d1",
         "type": "tabs",
         "children": [
           {
-            "id": "df9a697c2131c58d",
+            "id": "cd9550b16d4b3d77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 16 - P and NP/W16N1 - P and NP.md",
+                "file": "Week 17 - Satisfiability and NP-completeness/W17N1 - Statisfiability.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 16 - P and NP/W16N1 - P and NP.md",
+                "file": "Week 17 - Satisfiability and NP-completeness/W17N1 - Statisfiability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 16 - P and NP/W16N1 - P and NP.md",
+                "file": "Week 17 - Satisfiability and NP-completeness/W17N1 - Statisfiability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 16 - P and NP/W16N1 - P and NP.md"
+                "file": "Week 17 - Satisfiability and NP-completeness/W17N1 - Statisfiability.md"
               }
             }
           },
@@ -157,8 +157,10 @@
   },
   "active": "245016979c3189b3",
   "lastOpenFiles": [
-    "Week 17 - Satisfiability and NP-completeness",
     "Week 16 - P and NP/W16N1 - P and NP.md",
+    "Week 17 - Satisfiability and NP-completeness/W17N1 - Statisfiability.md",
+    "README.md",
+    "Week 17 - Satisfiability and NP-completeness",
     "Week 14 - Parsing context-free languages/W14N2 - Chomsky normal form.md",
     "Week 13 - Probabilistic FSMs and context-free languages/W13N3 - Viterbi's Algorithm.md",
     "Week 13 - Probabilistic FSMs and context-free languages/W13N2 - Hidden Markov Models.md",
@@ -182,7 +184,6 @@
     "W12N2 - Edit distance.md",
     "Week 12 - Dynamic programming applications/W12N1 - Seam carving.md",
     "Week 12 - Dynamic programming applications",
-    "README.md",
     "Week 11 - Dijkstra and dynamic programming/W11N2 - Dynamic programming.md",
     "Week 11 - Dijkstra and dynamic programming/W11N3 - Coin changing problem.md",
     "Week 11 - Dijkstra and dynamic programming/W11N1 - Dijkstra's Algorithm.md",
@@ -201,7 +202,6 @@
     "Week 10 - Depth-first search and topological sort",
     "Week 9 - Graphs and breadth-first search",
     "Week 8 - QuickSort",
-    "Week 7 - Heap sort",
-    "Week 6 - Heaps"
+    "Week 7 - Heap sort"
   ]
 }
