@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ec308aa7092852d1",
+        "id": "569b77dbe2f5b771",
         "type": "tabs",
         "children": [
           {
-            "id": "cd9550b16d4b3d77",
+            "id": "0b71556d140012ca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Week 17 - Satisfiability and NP-completeness/W17N1 - Statisfiability.md",
-                "mode": "source",
-                "source": false
+                "file": "backing/Images/w17n23CNFIndependentSet.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 17 - Satisfiability and NP-completeness/W17N1 - Statisfiability.md",
+                "file": "backing/Images/w17n23CNFIndependentSet.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 17 - Satisfiability and NP-completeness/W17N1 - Statisfiability.md",
+                "file": "backing/Images/w17n23CNFIndependentSet.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 17 - Satisfiability and NP-completeness/W17N1 - Statisfiability.md"
+                "file": "backing/Images/w17n23CNFIndependentSet.png"
               }
             }
           },
@@ -157,7 +155,12 @@
   },
   "active": "245016979c3189b3",
   "lastOpenFiles": [
+    "Week 17 - Satisfiability and NP-completeness/W17N2 - Independent sets.md",
+    "backing/Images/w17n2IndependentSetGraph.png",
+    "backing/Images/w17n23CNFGraph.png",
+    "backing/Images/w17n23CNFIndependentSet.png",
     "Week 16 - P and NP/W16N1 - P and NP.md",
+    "w.png",
     "Week 17 - Satisfiability and NP-completeness/W17N1 - Statisfiability.md",
     "README.md",
     "Week 17 - Satisfiability and NP-completeness",
@@ -177,8 +180,6 @@
     "backing/Images/w13n4SyntaxTrees.png",
     "backing/Images/w13n4StructuralAmbiguity.png",
     "backing/Images/w13n4GeneratingSyntaxTree.png",
-    "backing/Images/w13n3WeatherHMMOutput.png",
-    "backing/Images/w13n1WeatherHMM.png",
     "Week 14 - Parsing context-free languages",
     "Week 13 - Probabilistic FSMs and context-free languages",
     "W12N2 - Edit distance.md",
@@ -187,8 +188,6 @@
     "Week 11 - Dijkstra and dynamic programming/W11N2 - Dynamic programming.md",
     "Week 11 - Dijkstra and dynamic programming/W11N3 - Coin changing problem.md",
     "Week 11 - Dijkstra and dynamic programming/W11N1 - Dijkstra's Algorithm.md",
-    "backing/Images/w10n1AnimatedDFS.gif",
-    "backing/Images/w9n2AnimatedBFS.gif",
     "Week 2 - Asymptotic notation/W2N2 - Summary of asymptotic notation.md",
     "Week 2 - Asymptotic notation/W2N1 - Asymptotic analysis - o and ω.md",
     "Week 2 - Asymptotic notation/W2N2 - O, Ω, and Θ.md",
@@ -197,8 +196,6 @@
     "Week 6 - Heaps/W6N1 - Heap datastructure.md",
     "Week 9 - Graphs and breadth-first search/W9N1 - Graphs and representations.md",
     "Week 11 - Dijkstra and dynamic programming",
-    "Week 10 - Depth-first search and topological sort/W10N3 - Connected components.md",
-    "Week 10 - Depth-first search and topological sort/W10N1 - Depth-first search.md",
     "Week 10 - Depth-first search and topological sort",
     "Week 9 - Graphs and breadth-first search",
     "Week 8 - QuickSort",

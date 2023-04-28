@@ -37,6 +37,7 @@ This is written as $R\leq_PQ$.
 # NP-completeness
 A decision problem $Q$ is said to be **NP-complete** if $Q\in NP$ and for every problem $R\in NP$ then $R\leq_PQ$.
 This is the equivalent to saying $Q$ is as hard as any problem in $NP$ can be.
+Any NP problem can be reduced to any other NP-complete problem.
 
 An example of an NP-complete problem is SAT.
 
