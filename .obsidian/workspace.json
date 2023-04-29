@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c525ed8a47b01543",
+        "id": "402fc7579bf4817e",
         "type": "tabs",
         "children": [
           {
-            "id": "e6bba006d0fb3b23",
+            "id": "61eab7f5efea7606",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "backing/Images/w19n1HaltingUndecidableMachine.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "backing/Images/w19n1HaltingUndecidableMachine.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "backing/Images/w19n1HaltingUndecidableMachine.png"
+              }
             }
           },
           {
@@ -147,13 +151,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e6bba006d0fb3b23",
+  "active": "245016979c3189b3",
   "lastOpenFiles": [
     "Week 19 - Unsolvable problems/W19N1 - The halting problem.md",
     "Week 19 - Unsolvable problems/W19N2 - Other unsolvable problems.md",
     "Week 19 - Unsolvable problems/W19N3 - Unknowable truths.md",
-    "w19n1HaltingUndecidableMachine.png",
-    "w19n1HaltingTester.png",
+    "backing/Images/w19n1HaltingUndecidableMachine.png",
+    "backing/Images/w19n1HaltingTester.png",
     "Week 18 - Computability/W18N1 - Computability.md",
     "Week 19 - Unsolvable problems",
     "backing/Images/w18n1UniversalMachine.png",
