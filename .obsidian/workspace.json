@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "569b77dbe2f5b771",
+        "id": "b52b60155554d892",
         "type": "tabs",
         "children": [
           {
-            "id": "2c9c9c3e702aa7f5",
+            "id": "502c46a25aaaf3ab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 18 - Computability/W18N1 - Computability.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 18 - Computability/W18N1 - Computability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 18 - Computability/W18N1 - Computability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Week 18 - Computability/W18N1 - Computability.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,9 +149,10 @@
   },
   "active": "245016979c3189b3",
   "lastOpenFiles": [
+    "Week 18 - Computability/W18N1 - Computability.md",
+    "backing/Images/w18n1UniversalMachine.png",
     "backing/Images/w18n1RegisterMachineComponents.png",
     "backing/Images/w17n23CNFIndependentSet.png",
-    "Week 18 - Computability/W18N1 - Computability.md",
     "Week 18 - Computability",
     "Week 17 - Satisfiability and NP-completeness/W17N2 - Independent sets.md",
     "backing/Images/w17n2IndependentSetGraph.png",
@@ -183,8 +176,6 @@
     "backing/Images/w14n3EnglishProcessing.png",
     "backing/Images/w14n1ParsingTree.png",
     "backing/Images/w13n4SyntaxTrees.png",
-    "backing/Images/w13n4StructuralAmbiguity.png",
-    "backing/Images/w13n4GeneratingSyntaxTree.png",
     "Week 14 - Parsing context-free languages",
     "Week 13 - Probabilistic FSMs and context-free languages",
     "W12N2 - Edit distance.md",

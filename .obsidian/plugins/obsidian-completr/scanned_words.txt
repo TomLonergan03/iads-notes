@@ -86,6 +86,7 @@ iS
 ic
 iN
 ij
+ignoring
 or
 of
 operations
@@ -280,6 +281,7 @@ tc
 tUW
 tBZ
 tk
+trivial
 some
 smaller
 so
@@ -437,6 +439,8 @@ sY
 sX
 sXfj
 sg
+series
+supply
 multiple
 matter
 many
@@ -526,6 +530,7 @@ mE
 mL
 mO
 mW
+machines
 eventually
 execute
 each
@@ -697,6 +702,7 @@ bQ
 bEj
 bq
 bKk
+build
 above
 asymptotically
 as
@@ -806,6 +812,9 @@ aIY
 aRl
 aZ
 ab
+algorithmically
+arbitrary
+adds
 no
 number
 not
@@ -1059,6 +1068,7 @@ Cp
 Coverline
 Cy
 CVo
+Church
 consider
 compare
 cost
@@ -1218,6 +1228,11 @@ cR
 ca
 cy
 cW
+computable
+coinciding
+calculus
+capable
+components
 larger
 lower
 likely
@@ -1293,6 +1308,8 @@ lt
 lg
 lw
 lUW
+limitations
+losing
 upper
 use
 useful
@@ -1483,6 +1500,7 @@ Ti
 TV
 Ts
 TE
+Turing
 possible
 purposes
 performed
@@ -1992,6 +2010,8 @@ ry
 rj
 rgz
 rW
+register
+registers
 Even
 Example
 Extensible
@@ -2498,6 +2518,7 @@ RD
 RF
 Rg
 RL
+Register
 First
 Fixed
 Fast
@@ -2835,6 +2856,7 @@ jl
 je
 jM
 jlLF
+joining
 Using
 UEGGG
 UF
