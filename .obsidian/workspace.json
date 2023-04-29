@@ -8,12 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0b71556d140012ca",
+            "id": "2c9c9c3e702aa7f5",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "backing/Images/w17n23CNFIndependentSet.png"
+                "file": "Week 18 - Computability/W18N1 - Computability.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "backing/Images/w17n23CNFIndependentSet.png",
+                "file": "Week 18 - Computability/W18N1 - Computability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "backing/Images/w17n23CNFIndependentSet.png",
+                "file": "Week 18 - Computability/W18N1 - Computability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "backing/Images/w17n23CNFIndependentSet.png"
+                "file": "Week 18 - Computability/W18N1 - Computability.md"
               }
             }
           },
@@ -155,10 +157,13 @@
   },
   "active": "245016979c3189b3",
   "lastOpenFiles": [
+    "backing/Images/w18n1RegisterMachineComponents.png",
+    "backing/Images/w17n23CNFIndependentSet.png",
+    "Week 18 - Computability/W18N1 - Computability.md",
+    "Week 18 - Computability",
     "Week 17 - Satisfiability and NP-completeness/W17N2 - Independent sets.md",
     "backing/Images/w17n2IndependentSetGraph.png",
     "backing/Images/w17n23CNFGraph.png",
-    "backing/Images/w17n23CNFIndependentSet.png",
     "Week 16 - P and NP/W16N1 - P and NP.md",
     "w.png",
     "Week 17 - Satisfiability and NP-completeness/W17N1 - Statisfiability.md",
@@ -194,11 +199,9 @@
     "Week 1 - Efficiency of algorithms/W1N1 - What are algorithms and data structures?.md",
     "Week 10 - Depth-first search and topological sort/W10N2 - Topological sorting.md",
     "Week 6 - Heaps/W6N1 - Heap datastructure.md",
-    "Week 9 - Graphs and breadth-first search/W9N1 - Graphs and representations.md",
     "Week 11 - Dijkstra and dynamic programming",
     "Week 10 - Depth-first search and topological sort",
     "Week 9 - Graphs and breadth-first search",
-    "Week 8 - QuickSort",
-    "Week 7 - Heap sort"
+    "Week 8 - QuickSort"
   ]
 }
