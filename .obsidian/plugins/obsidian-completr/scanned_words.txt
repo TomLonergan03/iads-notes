@@ -87,6 +87,8 @@ ic
 iN
 ij
 ignoring
+informal
+insight
 or
 of
 operations
@@ -168,6 +170,7 @@ oCW
 oNu
 os
 oD
+opposed
 there
 that
 than
@@ -282,6 +285,9 @@ tUW
 tBZ
 tk
 trivial
+thesis
+turns
+tester
 some
 smaller
 so
@@ -441,6 +447,11 @@ sXfj
 sg
 series
 supply
+solidly
+safe
+simulate
+simulating
+simulated
 multiple
 matter
 many
@@ -531,6 +542,9 @@ mL
 mO
 mW
 machines
+mechanical
+mind
+multi
 eventually
 execute
 each
@@ -624,6 +638,10 @@ eKKK
 etbE
 eJ
 epx
+established
+encoding
+equations
+equation
 bounded
 by
 below
@@ -703,6 +721,7 @@ bEj
 bq
 bKk
 build
+building
 above
 asymptotically
 as
@@ -815,6 +834,10 @@ ab
 algorithmically
 arbitrary
 adds
+accept
+attempts
+argument
+appropriate
 no
 number
 not
@@ -1012,6 +1035,9 @@ DF
 DU
 DM
 DDD
+Define
+Does
+Diophantine
 Can
 CPU
 Create
@@ -1233,6 +1259,19 @@ coinciding
 calculus
 capable
 components
+claims
+coincides
+computes
+converge
+calculator
+choose
+complex
+concept
+computing
+coefficients
+cubes
+contradiction
+concatenation
 larger
 lower
 likely
@@ -1310,6 +1349,8 @@ lw
 lUW
 limitations
 losing
+led
+looping
 upper
 use
 useful
@@ -1358,6 +1399,9 @@ ud
 ujq
 uA
 uh
+unlimited
+universal
+unsolvable
 for
 focus
 from
@@ -1442,6 +1486,11 @@ fs
 ft
 fu
 fn
+finitely
+fingers
+finishes
+forever
+formed
 There
 Typically
 The
@@ -1617,6 +1666,15 @@ pT
 pa
 paQ
 pr
+principle
+paper
+programmed
+purpose
+programmable
+paradox
+positive
+passed
+pass
 various
 values
 value
@@ -1670,6 +1728,7 @@ vg
 vV
 vB
 vu
+vastly
 kinds
 know
 keys
@@ -1841,6 +1900,7 @@ dj
 dII
 dw
 dK
+distinguishable
 how
 have
 halves
@@ -1895,6 +1955,10 @@ hR
 hcGP
 hZ
 hU
+human
+halt
+halting
+halts
 runtime
 runtimes
 run
@@ -2055,6 +2119,7 @@ EQA
 Ee
 EX
 EC
+Equivalently
 An
 Asymptotic
 Any
@@ -2519,6 +2584,9 @@ RF
 Rg
 RL
 Register
+Regardless
+Russell
+RM
 First
 Fixed
 Fast
@@ -2660,6 +2728,7 @@ SAT
 SF
 SC
 SH
+Supposing
 Notes
 NG
 NK
@@ -2704,6 +2773,7 @@ NR
 NPR
 Nc
 NJ
+Nobody
 Obsidian
 OOO
 OO
@@ -2793,6 +2863,8 @@ PZZJ
 PD
 PJ
 Pj
+Post
+Proof
 Given
 Gp
 GGG
@@ -2965,6 +3037,7 @@ yz
 ysq
 yb
 yrE
+yes
 KKKt
 KO
 Kw

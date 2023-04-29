@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b52b60155554d892",
+        "id": "c525ed8a47b01543",
         "type": "tabs",
         "children": [
           {
-            "id": "502c46a25aaaf3ab",
+            "id": "e6bba006d0fb3b23",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -147,9 +147,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "245016979c3189b3",
+  "active": "e6bba006d0fb3b23",
   "lastOpenFiles": [
+    "Week 19 - Unsolvable problems/W19N1 - The halting problem.md",
+    "Week 19 - Unsolvable problems/W19N2 - Other unsolvable problems.md",
+    "Week 19 - Unsolvable problems/W19N3 - Unknowable truths.md",
+    "w19n1HaltingUndecidableMachine.png",
+    "w19n1HaltingTester.png",
     "Week 18 - Computability/W18N1 - Computability.md",
+    "Week 19 - Unsolvable problems",
     "backing/Images/w18n1UniversalMachine.png",
     "backing/Images/w18n1RegisterMachineComponents.png",
     "backing/Images/w17n23CNFIndependentSet.png",
@@ -174,8 +180,6 @@
     "Week 16 - P and NP",
     "backing/Images/w14n3JavaProcessing.png",
     "backing/Images/w14n3EnglishProcessing.png",
-    "backing/Images/w14n1ParsingTree.png",
-    "backing/Images/w13n4SyntaxTrees.png",
     "Week 14 - Parsing context-free languages",
     "Week 13 - Probabilistic FSMs and context-free languages",
     "W12N2 - Edit distance.md",
@@ -188,11 +192,8 @@
     "Week 2 - Asymptotic notation/W2N1 - Asymptotic analysis - o and ω.md",
     "Week 2 - Asymptotic notation/W2N2 - O, Ω, and Θ.md",
     "Week 1 - Efficiency of algorithms/W1N1 - What are algorithms and data structures?.md",
-    "Week 10 - Depth-first search and topological sort/W10N2 - Topological sorting.md",
-    "Week 6 - Heaps/W6N1 - Heap datastructure.md",
     "Week 11 - Dijkstra and dynamic programming",
     "Week 10 - Depth-first search and topological sort",
-    "Week 9 - Graphs and breadth-first search",
-    "Week 8 - QuickSort"
+    "Week 9 - Graphs and breadth-first search"
   ]
 }

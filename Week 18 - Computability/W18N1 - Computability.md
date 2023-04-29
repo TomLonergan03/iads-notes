@@ -5,6 +5,7 @@ There are many ways to reach the same class of CT-computable functions:
 - Turing machines
 - Register machines
 
+# Register machines
 To use the example of register machines, a register machine has a fixed, finite set of registers ($A,B,...,I$)each capable of storing an arbitrary natural number.
 We can build a machine by joining trivial components
 ![[w18n1RegisterMachineComponents.png]]
